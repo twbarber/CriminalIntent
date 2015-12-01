@@ -31,11 +31,11 @@ public class CrimeLab {
         }
     }
 
-    public List<Crime> getmCrime(UUID id) {
+    public List<Crime> getCrime(UUID id) {
         return mCrimes;
     }
 
-    public List<Crime> getmCrimes() {
+    public List<Crime> getCrimes() {
         return mCrimes;
     }
 
